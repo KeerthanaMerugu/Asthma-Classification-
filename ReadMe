@@ -1,0 +1,8 @@
+####importing packages#######
+dataset path
+
+###### phonems which we are used to classify the control and patient######## (each audio file includes these phonems,each phonemis repeated on an average of 5 times  )
+# five fold cross validation
+#I have created five train.mat files and five test.mat files (each mat file consists of opensmile features(with the dimension ---number of audio files x 6373) of input data)
+
+#####SVM model
